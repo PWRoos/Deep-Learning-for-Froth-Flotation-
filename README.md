@@ -61,7 +61,7 @@ To run the models execute the src/main.ipynb script. This script trains and eval
     │
     ├── /src                         # Source code and models
     │    ├── main.ipynb              # Main script to run models
-    │    ├── flotation_dataset.csv   # Froth flotation dataset to be used
+    │    ├── RAW PLANT DATA.csv   # Froth flotation dataset to be used
     │
     ├── /docs                        # Documentation for the project
     │    └── user_guide.md           # Detailed user guide
