@@ -1,3 +1,4 @@
 src/RAW[[:space:]]PLANT[[:space:]]DATA.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 src/*.csv filter=lfs diff=lfs merge=lfs -text
+src/*.CSV filter=lfs diff=lfs merge=lfs -text
